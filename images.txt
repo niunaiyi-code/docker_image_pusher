@@ -1,7 +1,4 @@
-#支持私库
-bitnami/kube-state-metrics
-xhofe/alist
 #支持指定架构
 --platform=linux/arm64 
+xhofe/alist
 xiaoyaliu/alist
-openwrt/imagebuilder
