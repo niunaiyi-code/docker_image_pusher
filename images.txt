@@ -1,3 +1,3 @@
 #支持指定架构
-xhofe/alist
-xiaoyaliu/alist
+--platform linux/amd64 xhofe/alist
+--platform linux/amd64 xiaoyaliu/alist
